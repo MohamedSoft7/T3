@@ -1,0 +1,37 @@
+header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(254,254,254,.8),rgba(254,254,254,.8)),url(../images/bg1.png);
+    background-position: center;
+    background-size: cover;
+   
+}
+.navbar-nav a{
+    margin-right: 100px;
+}
+.navbar-nav a:hover ,.navbar-nav a:active ,h1,.sp1{
+   color: #91693E;
+}
+.h2{
+    color: #fff;
+    background-color: #91693E;
+}
+.btn{
+    text-align: center;
+    color: #fff;
+    border: #91693E;
+    background-color: #91693E;
+}
+.btn:hover{
+    color: #fff;
+    background-color: #484746;
+}
+.law1{
+    min-height: auto;
+    background: url(../images/bg2.PNG);
+    background-position: center;
+    background-size: cover;
+}
+hr{
+    border: #91693E solid 2px;
+    opacity: 1;
+}
